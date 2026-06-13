@@ -1,3 +1,14 @@
+---
+title: AI Customer Support Chatbot Voicebot Demo
+emoji: 🎙️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.37.1
+app_file: app.py
+pinned: false
+---
+
 # AI Customer Support Chatbot & Voicebot Automation Demo
 
 A practical customer support chatbot and voicebot MVP built with Python and Streamlit.
